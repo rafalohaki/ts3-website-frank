@@ -9,21 +9,7 @@
 <!-- OP:LEFT COLUMN -->
 <div id="left">
 
-    <h2>Quick Links</h2>
-    <div class="cont">
-        <div class="inner">
-            <img src="images/side_cont_bg_top.gif" alt=""/>
-            <ul>
-                <li><a href="#"> Home </a></li>
-                <li><a href="#"> Roster </a></li>
-                <li><a href="#"> Community </a></li>
-                <li><a href="#"> Downloads </a></li>
-                <li><a href="#"> Recent Record </a></li>
 
-            </ul>
-            <img src="images/side_cont_bg_bottom.gif" alt=""/>
-        </div>
-    </div>
 
     <h2>Match Results</h2>
     <div class="cont">
